@@ -1,6 +1,8 @@
 # Workspace-Optimization
 This video contains the prototype which we have build to optimize the workspace using grid philosophy. 
 
+ **Watch the Video Demonstration:** [Click Here](https://drive.google.com/file/d/1C_dXkIo3ZE0AV2s4j6Sj5mtaus_NBlpZ/view?usp=sharing)  
+
 
 # Overview
 
